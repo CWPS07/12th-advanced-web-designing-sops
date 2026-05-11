@@ -22,8 +22,28 @@ Complete SOPs, practicals, notes, projects, HTML, CSS, JavaScript, responsive we
 
 <details>
 <summary>SOP 3</summary>
+  
+[Open SOP 3](https://github.com/CWPS07/12th-advanced-web-designing-sops/tree/eff0468006532d1f49379bd7acb6752ee73cf675/sop-03)
 
-[Open SOP 3](https://cwps07.github.io/12th-advanced-web-designing-sops/sop-03/)
+</details>
+
+<details>
+<summary>SOP 5</summary>
+
+[Open SOP 5](https://github.com/CWPS07/12th-advanced-web-designing-sops/tree/7c313005876f68b43c11635899483f0b492c5954/sop-05)
+
+</details>
+<details>
+<summary>SOP 6</summary>
+
+[Open SOP 36](https://github.com/CWPS07/12th-advanced-web-designing-sops/tree/7c313005876f68b43c11635899483f0b492c5954/sop-06)
+
+</details>
+
+<details>
+<summary>SOP 7</summary>
+
+[Open SOP 7](https://github.com/CWPS07/12th-advanced-web-designing-sops/tree/7c313005876f68b43c11635899483f0b492c5954/sop-07)
 
 </details>
 
