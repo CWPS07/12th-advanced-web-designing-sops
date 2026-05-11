@@ -16,7 +16,7 @@ Complete SOPs, practicals, notes, projects, HTML, CSS, JavaScript, responsive we
 <details>
 <summary>SOP 2</summary>
 
-[Open SOP 2](https://cwps07.github.io/12th-advanced-web-designing-sops/sop-02/)
+[Open SOP 2](https://github.com/CWPS07/12th-advanced-web-designing-sops/tree/eff0468006532d1f49379bd7acb6752ee73cf675/sop-02)
 
 </details>
 
