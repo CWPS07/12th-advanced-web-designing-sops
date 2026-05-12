@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Admission Form | Shree Mahavir Junior College</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #d32f2f;
+        }
+
+        form {
+            border: 2px solid #ccc;
+            padding: 20px;
+            width: 50%;
+            margin: 0 auto;
+            background: #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Student Enrolment Form</h2>
+
+    <nav style="text-align: center;">
+        <a href="index.html">Back to Home</a>
+    </nav>
+
+    <br>
+
+    <form>
+        Name: <input type="text" name="stud_name" placeholder="Enter Full Name" required><br><br>
+
+        Contact No: <input type="tel" name="mobile" required><br><br>
+
+        Email Id: <input type="email" name="mail_id" required><br><br>
+
+        Gender:
+        <input type="radio" name="gen" value="Male" required> Male
+        <input type="radio" name="gen" value="Female" required> Female <br><br>
+
+        Class:
+        <select name="class" required>
+            <option value="11">11th Science </option>
+            <option value="12">12th Science</option>
+        </select><br><br>
+
+        Subjects:
+        <input type="checkbox" required> Physics
+        <input type="checkbox" required> Chemistry
+        <input type="checkbox"> Maths
+        <input type="checkbox"> Bio
+        <input type="checkbox"> Marathi
+        <input type="checkbox"> Information Technology <br><br>
+
+        <input type="submit" value="Submit Admission">
+        <input type="reset" value="Clear Form">
+    </form>
+
+    <center>
+        <p>Contact: 02591-222xxx | Email: smvl@gmail.com</p>
+    </center>
+
+</body>
+
+</html>
