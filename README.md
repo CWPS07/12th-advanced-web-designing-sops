@@ -61,6 +61,6 @@ Complete SOPs, practicals, notes, projects, HTML, CSS, JavaScript, responsive we
 <details>
 <summary>SOP 1</summary>
 
-[Open JavaScript SOP](https://cwps07.github.io/12th-advanced-web-designing-sops/sop-05/)
+[Open JavaScript SOP](https://github.com/CWPS07/JavaScript-SOPs/tree/f1c7fab8a539fcb0f8121631857370d6d383331b/sop-01)
 
 </details>
