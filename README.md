@@ -61,14 +61,14 @@ Complete SOPs, practicals, notes, projects, HTML, CSS, JavaScript, responsive we
 <details>
 <summary>SOP 1</summary>
 
-[Open JavaScript SOP 1](https://github.com/CWPS07/JavaScript-SOPs/tree/c97f479791b7e7f8917b03b4da79c89189aac6bb/sop-01)
+[Open JavaScript SOP 1](https://github.com/CWPS07/JavaScript-SOPs/tree/5fa26e531c31c92ed0681c7dc06ab2dae7167b07/sop-01)
 
 </details>
 
 <details>
 <summary>SOP 2</summary>
 
-[Open JavaScript SOP 2](https://github.com/CWPS07/JavaScript-SOPs/tree/c97f479791b7e7f8917b03b4da79c89189aac6bb/sop-02)
+[Open JavaScript SOP 2](https://github.com/CWPS07/JavaScript-SOPs/tree/5fa26e531c31c92ed0681c7dc06ab2dae7167b07/sop-02)
 </details>
 
 <details>
