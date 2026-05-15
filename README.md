@@ -1,5 +1,27 @@
-# 12th Advanced Web Designing, JavaScript and PHP SOPs
-Complete SOPs, practicals, notes, projects, HTML, CSS, JavaScript, responsive website design, and advanced web development resources for 12th science students.<br>
+# 12th HSC IT Science Practical SOP Solutions (Maharashtra Board)
+
+This repository contains verified, complete code solutions for **Class 12 Information Technology (IT)** Skill Oriented Practicals (SOP) for the Science stream.
+
+## 🚀 Covered Syllabus & Chapters
+
+### 1. Advanced Web Designing (HTML5 & CSS3)
+* **SOP 1:** Website creation using HTML5 semantic tags and CSS.
+* **SOP 2:** Audio/Video injection with fallback text.
+* **SOP 3:** Navigation maps (Client-side image mapping).
+
+### 2. Advanced JavaScript
+* **SOP 1:** Event-driven programming (e.g., background color changing).
+* **SOP 2:** String manipulation, loops, and Palindrome validation.
+
+### 3. Server-Side Scripting (PHP)
+* **SOP 1:** Registration form handling and basic math scripting.
+* **SOP 2:** PHP cross-browser validation and data sanitization.
+* **SOP 3:** PHP MySQLi database connectivity and query handling.
+
+## 💻 How to Run the Code
+1. For **Web Designing** and **JavaScript**: Open the `.html` files directly in Google Chrome or Firefox.
+2. For **PHP**: Download and start [XAMPP](https://apachefriends.org), move the folder to `htdocs`, and open `localhost/your-folder-name` in your browser.
+<br>
 
 
 # Chapter Wise SOP List
