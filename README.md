@@ -100,3 +100,55 @@ Complete SOPs, practicals, notes, projects, HTML, CSS, JavaScript, responsive we
 
 [Open JavaScript SOP 7](https://github.com/CWPS07/JavaScript-SOPs/tree/5fa26e531c31c92ed0681c7dc06ab2dae7167b07/sop-07)
 </details>
+
+---
+
+## Server-Side Scripting (PHP)
+
+<details>
+<summary>SOP 1</summary>
+
+[Open SOP 1]()
+
+</details>
+
+<details>
+<summary>SOP 2</summary>
+
+[Open SOP 2]()
+
+</details>
+
+<details>
+<summary>SOP 3</summary>
+  
+[Open SOP 3]()
+
+</details>
+
+<details>
+  <summary>SOP 4</summary>
+  
+  [Open SOP 4]()
+</details>
+
+<details>
+<summary>SOP 5</summary>
+
+[Open SOP 5]()
+
+</details>
+
+<details>
+<summary>SOP 6</summary>
+
+[Open SOP 6]()
+
+</details>
+
+<details>
+<summary>SOP 7</summary>
+
+[Open SOP 7]()
+
+</details>
