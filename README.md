@@ -4,7 +4,7 @@ This repository contains verified, complete code solutions for **Class 12 Inform
 
 ## 🚀 Covered Syllabus & Chapters
 
-### 1. Advanced Web Designing (HTML5 & CSS3)
+### 1. Advanced Web Designing (HTML5 & CSS)
 * **SOP 1:** Website creation using HTML5 semantic tags and CSS.
 * **SOP 2:** Audio/Video injection with fallback text.
 * **SOP 3:** Navigation maps (Client-side image mapping).
