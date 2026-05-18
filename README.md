@@ -1,4 +1,4 @@
-# 12th HSC IT Science Practical SOP Solutions (Maharashtra Board)
+# 12th HSC Information Technology Practical SOP Solutions (Maharashtra Board)
 
 This repository contains verified, complete code solutions for **Class 12 Information Technology (IT)** Skill Oriented Practicals (SOP) for the Science stream.
 
